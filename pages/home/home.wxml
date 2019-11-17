@@ -1,0 +1,4 @@
+<!--pages/home/home.wxml-->
+<text class="title">hello liaohao</text>
+<button>按钮</button>
+<image src=""></image>
